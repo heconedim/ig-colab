@@ -1,0 +1,3 @@
+/* client side javascript za html ide ovdje moze se razloziti 
+na vise .js fileova ne mora sve biti u jednom. 
+Imenujte ih kako vama odgovara npr modal.js navbar.js like.js... */
